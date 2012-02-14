@@ -1,4 +1,14 @@
 {
   "title": "Welcome to hubble.io",
-  "description": "An artcile that explains what hubble.io is"
+  "description": "An artcile that explains what hubble.io is",
+  "authors": [
+    {
+      "name": "Paolo Fragomeni",
+      "url": "https://github.com/hij1nx"
+    },
+    {
+      "name": "Pedro Teixeira",
+      "url": "https://github.com/pgte"
+    }
+  ]
 }
