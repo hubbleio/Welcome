@@ -11,5 +11,9 @@
       "url": "https://github.com/pgte"
     }
   ],
-  "tags": ["welcome", "intro"]
+  "tags": ["welcome", "intro"],
+  "categories": [
+    ["Help", "How-tos"],
+    ["Intro"]
+  ]
 }
